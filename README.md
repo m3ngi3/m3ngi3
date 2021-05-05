@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Django Lohn (@m3ngi3)
+- 👀 I’m interested in all kind of Tech
+- 💞️ I’m looking to collaborate on Power Platform and Microsoft 365 topics
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/djangolohn/) 
+- 🐥 Follow me on [Twitter](https://twitter.com/LohnDjango)
+- 🌐 Check out my [Knowhere365.space blog](https://knowhere365.space/)
